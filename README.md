@@ -1,1 +1,1 @@
-# -statistik
+# -Bot komutları
